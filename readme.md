@@ -2,7 +2,7 @@
 
 This is web application which gets the .csv file and processes it and stores it in a database.
 
-## Tech Stacks Used:
+## Tech Stack:
 
 1. HTML
 2. Django
