@@ -76,7 +76,7 @@ def convert(request):
     db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Krithik@10"
+    password="pass"
     )
 
     #initial cursor
